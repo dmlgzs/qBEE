@@ -31,7 +31,7 @@
 #define QBT_VERSION_MAJOR 4
 #define QBT_VERSION_MINOR 4
 #define QBT_VERSION_BUGFIX 2
-#define QBT_VERSION_BUILD 10
+#define QBT_VERSION_BUILD 114514
 #define QBT_VERSION_STATUS ""  // Should be empty for stable releases!
 
 #define QBT__STRINGIFY(x) #x
@@ -44,4 +44,4 @@
 #endif
 
 #define QBT_VERSION "v" PROJECT_VERSION
-#define QBT_VERSION_2 PROJECT_VERSION "114514"
+#define QBT_VERSION_2 PROJECT_VERSION
